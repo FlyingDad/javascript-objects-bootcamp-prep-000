@@ -1,3 +1,3 @@
 var playlist = {
-  
+  artist: "unknown"
 };
